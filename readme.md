@@ -1,7 +1,8 @@
 ## Predict Covid 19 using Naive Bayes Classification
 
+# How to run this project
 * Install requirements from requirements.txt
-```
+``` 
 $ pip install -r requirements.txt
 ```
 
@@ -20,4 +21,4 @@ $ python test.py
 $ python main.py
 ```
 
-See the <a href="https://drive.google.com/file/d/1Hmq_xqJJGOvQPsxPh6hr64EYO2_VMvRg/view?usp=share_link">demo video</a>
+See the <a href="https://drive.google.com/file/d/1N64YR8kU8mBZZDOp1GU230hlP31Rmzj4/view?usp=share_link">demo video</a>
