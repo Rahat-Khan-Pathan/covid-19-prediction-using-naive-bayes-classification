@@ -45,7 +45,7 @@ def test_model(df,x,y,testData,trained_data):
 
 def read_data():
     print("Reading data from csv...")
-    # time.sleep(2)
+    time.sleep(2)
     df = pd.read_csv("./datasets/covid.csv")
     print("Done...\n")
     return df
