@@ -22,3 +22,6 @@ $ python main.py
 ```
 
 See the <a href="https://drive.google.com/file/d/1N64YR8kU8mBZZDOp1GU230hlP31Rmzj4/view?usp=share_link">demo video</a>
+
+
+Dataset <a href="https://www.kaggle.com/datasets/jayaprakashpondy/coviddataset">Here</a>
