@@ -1,6 +1,6 @@
-## Predict Covid 19 using Naive Bayes Classification
+# Predict Covid 19 using Naive Bayes Classification
 
-# How to run this project
+## How to run this project
 * Install requirements from requirements.txt
 ``` 
 $ pip install -r requirements.txt
