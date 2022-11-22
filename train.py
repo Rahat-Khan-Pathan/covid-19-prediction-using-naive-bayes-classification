@@ -46,7 +46,7 @@ def train_model(df,x,y):
         trained_data[feature]=dct
     trained_data["totalYes"]=totalYes
     trained_data["totalNo"]=totalNo
-    with open('trained_data.txt', 'w') as convert_file:
+    with open('./trained/trained_data.txt', 'w') as convert_file:
         convert_file.write(json.dumps(trained_data))
     print("Model Trained. Model Extracted in trained_data.txt File. Now You Can Test Your Model with Test Data!\n")
 

@@ -20,7 +20,7 @@ def read_data():
 def load_model():
     print("Loading Trained Data from trained_data.txt...")
     time.sleep(2)
-    with open('trained_data.txt') as f:
+    with open('./trained/trained_data.txt') as f:
         data = f.read()
         js = json.loads(data)
     print("Loaded!\n")
