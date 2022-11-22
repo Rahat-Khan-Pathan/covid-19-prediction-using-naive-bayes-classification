@@ -21,6 +21,8 @@ $ python test.py
 $ python main.py
 ```
 
+<b><u>Accuracy gained</u></b> - 93%
+
 See the <a href="https://drive.google.com/file/d/1lrXIq0xdN63wasZIavZjfDupCoOicRtn/view?usp=share_link">Demo Video</a>
 
 
