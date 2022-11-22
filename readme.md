@@ -6,17 +6,17 @@
 $ pip install -r requirements.txt
 ```
 
-2. Run train.py to train the model with 4443 data in covid.csv
+2. Run <b>train.py</b> to train the model with 4443 data in covid.csv
 ```
 $ python train.py
 ```
 
-3. Run test.py to train the model with last 1000 data in covid.csv
+3. Run <b>test.py</b> to train the model with last 1000 data in covid.csv
 ```
 $ python test.py
 ```
 
-4. Run main.py and choose the features to predict the probability.
+4. Run <b>main.py</b> and choose the features to predict the probability.
 ```
 $ python main.py
 ```
