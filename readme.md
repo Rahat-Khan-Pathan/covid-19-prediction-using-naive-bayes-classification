@@ -6,12 +6,12 @@
 $ pip install -r requirements.txt
 ```
 
-2. Run <b>train.py</b> to train the model with 4443 data in covid.csv
+2. Run <b>train.py</b> to train the model with 5334 data in covid.csv
 ```
 $ python train.py
 ```
 
-3. Run <b>test.py</b> to train the model with last 1000 data in covid.csv
+3. Run <b>test.py</b> to train the model with last 100 data in covid.csv
 ```
 $ python test.py
 ```
