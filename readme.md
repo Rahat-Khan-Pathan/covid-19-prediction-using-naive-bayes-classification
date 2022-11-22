@@ -1,22 +1,22 @@
 # Predict Covid 19 using Naive Bayes Classification
 
 ## How to run this project
-* Install requirements from requirements.txt
+1. Install requirements from requirements.txt
 ``` 
 $ pip install -r requirements.txt
 ```
 
-* Run train.py to train the model with 4443 data in covid.csv
+2. Run train.py to train the model with 4443 data in covid.csv
 ```
 $ python train.py
 ```
 
-* Run test.py to train the model with last 1000 data in covid.csv
+3. Run test.py to train the model with last 1000 data in covid.csv
 ```
 $ python test.py
 ```
 
-* Run main.py and choose the features to predict the probability.
+4. Run main.py and choose the features to predict the probability.
 ```
 $ python main.py
 ```
