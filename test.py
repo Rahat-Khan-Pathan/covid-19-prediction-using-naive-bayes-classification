@@ -64,9 +64,9 @@ def test_model(df,x,y,test,testAns,trained_data):
 
 df = pd.DataFrame(read_data())
 x,y=pre_processing(df)
-x=x.truncate(0,4433)
-y=y.truncate(0,4433)
-test=df.truncate(4434,5433)
+x=x.truncate(0,5333)
+y=y.truncate(0,5333)
+test=df.truncate(5334,5433)
 testAns=test[test.columns[-1]]
 test=test.drop(test.columns[-1],axis=1)
 trained_data=load_model()
