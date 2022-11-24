@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
 $ python train.py
 ```
 
-3. Run <b>test.py</b> to train the model with last 100 data in covid.csv
+3. Run <b>test.py</b> to test the model with last 100 data in covid.csv
 ```
 $ python test.py
 ```
